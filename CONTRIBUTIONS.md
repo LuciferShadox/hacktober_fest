@@ -1,6 +1,14 @@
 
 ## Awesome Contributors :sunglasses:
 
+
+### Name: P.Hari Prasad  
+ -Place: kerala, india  
+ -Bio: python kid  
+ -Github: [phariprasad-crypto](https://github.com/phariprasad-crypto/)  
+ -email: hp251196@gmail.com  
+
+
 ### Name: Nikhil PS  
  -Place: kerala, india  
  -Bio: Android dev  
